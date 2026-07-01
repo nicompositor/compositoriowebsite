@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 700" role="img" aria-labelledby="title desc">
+  <title id="title">Placeholder compositor 02</title>
+  <desc id="desc">Imagen temporal para foto del segundo compositor.</desc>
+  <rect width="900" height="700" fill="#151515"/>
+  <circle cx="450" cy="280" r="92" fill="#2a2a2a"/>
+  <rect x="285" y="410" width="330" height="170" rx="85" fill="#2a2a2a"/>
+  <text x="54" y="630" fill="#8E8E93" font-family="monospace" font-size="28">foto-compositor2.jpg</text>
+</svg>
