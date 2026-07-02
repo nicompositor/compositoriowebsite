@@ -1,8 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" role="img" aria-labelledby="title desc">
-  <title id="title">Placeholder de crédito 01</title>
-  <desc id="desc">Imagen temporal para póster de crédito.</desc>
-  <rect width="800" height="1200" fill="#151515"/>
-  <rect x="40" y="40" width="720" height="1120" fill="none" stroke="#343434" stroke-width="2"/>
-  <text x="70" y="1050" fill="#ffffff" font-family="Arial, sans-serif" font-size="58" font-weight="700">CRÉDITO 01</text>
-  <text x="70" y="1115" fill="#8E8E93" font-family="monospace" font-size="24">Reemplazar por póster</text>
-</svg>
